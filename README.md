@@ -1,7 +1,7 @@
 [![MasterHead](https://media.tenor.com/9NJ0yGILncMAAAAd/programmer-programming.gif)](https://nahuelguerra.com.ar)
 <h1 align="center">Hi 👋, I'm Nahuel Guerra</h1>
 <h3 align="center">Full Stack Developer from Argentina</h3>
-<img align="right" alt="Coding" width="400" src="https://nahuelguerra.com.ar/assets/coffe-pu1_QmOj.png">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/programming-crazy-hard-typing-animation-dz0h9gpwght2nl4t.webp">
 
 
 
